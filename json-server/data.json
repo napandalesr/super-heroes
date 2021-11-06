@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nombre": "Hulk",
+      "puedeVolar": false,
+      "nombreReal": "Bruce Banner",
+      "avatarURL": "https://www.enter.co/wp-content/uploads/2017/10/maxresdefault-1-1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Spider man",
+      "puedeVolar": false,
+      "nombreReal": "Peter Benjamin Parker",
+      "avatarURL": "https://www.muycomputer.com/wp-content/uploads/2021/08/Spider-Man.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Wonder Woman",
+      "puedeVolar": true,
+      "nombreReal": "Diana Prince",
+      "avatarURL": "https://i.pinimg.com/originals/57/49/42/5749425137c1b0c29ccd2f1cb0819245.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Iron Man",
+      "puedeVolar": true,
+      "nombreReal": "Tony Stark",
+      "avatarURL": "https://holatelcel.com/wp-content/uploads/2019/04/Principal-2.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Superman",
+      "puedeVolar": true,
+      "nombreReal": "Clark Kent",
+      "avatarURL": "https://ca-times.brightspotcdn.com/dims4/default/93e51da/2147483647/strip/true/crop/1482x976+0+0/resize/1482x976!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2Fa7%2Ff2f0adac4cbd97197a550342ca6b%2Fsuperman.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Ant-man",
+      "puedeVolar": false,
+      "nombreReal": "Henry Pym",
+      "avatarURL": "https://i.blogs.es/bb30ae/poster-antman/1366_2000.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Capitán américa",
+      "puedeVolar": false,
+      "nombreReal": "Steve Rogers",
+      "avatarURL": "https://xoandelugo.org/wp-content/uploads/2018/06/capitan-america.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Capitana marvel",
+      "puedeVolar": true,
+      "nombreReal": "Carol Susan Jane",
+      "avatarURL": "https://i.blogs.es/929fca/capitana-marvel/840_560.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Batman",
+      "puedeVolar": false,
+      "nombreReal": "Bruce Wayne",
+      "avatarURL": "https://i1.wp.com/hipertextual.com/wp-content/uploads/2021/08/batman-scaled.jpeg?fit=2560%2C1440&ssl=1"
+    },
+    {
+      "id": 10,
+      "nombre": "Thor",
+      "puedeVolar": false,
+      "nombreReal": "Thor Odinson",
+      "avatarURL": "http://4.bp.blogspot.com/-yUdU8fMX9vM/ULTdBjNI1nI/AAAAAAAAGuc/y2G53I5dCPk/s1600/Thor-1024x768.jpg"
+    },
+    {
+      "nombre": "Pantera Negra",
+      "nombreReal": "T'Challa",
+      "puedeVolar": false,
+      "avatarURL": "https://pm1.narvii.com/6300/b071308a03e8dabc1ae5be28fad10a728d2d12d2_hq.jpg",
+      "id": 11
+    }
+  ]
+}
